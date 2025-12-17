@@ -24,7 +24,7 @@ I come from an analytical background, which helps me write structured, maintaina
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vite" />
 </p>
 
 ---
