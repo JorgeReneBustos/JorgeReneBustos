@@ -13,11 +13,11 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer Jr** focused on building clean, responsive, and user-friendly interfaces.
+I'm a **Frontend Developer Jr** focused on building clean, responsive, and user-friendly web interfaces.
 
-I’m currently training as a **Professional Front End Developer at UTN**, strengthening my skills through real projects and modern frontend tools.
+I’m currently training as a **Professional Front End Developer at UTN**, working with modern frontend tools and best practices through real-world projects.
 
-I come from an analytical background, which helps me write structured, maintainable code and continuously improve my solutions.
+I also have a strong analytical background, which helps me write structured, maintainable code and continuously improve my solutions.
 
 ---
 
@@ -32,10 +32,10 @@ I come from an analytical background, which helps me write structured, maintaina
 ## 📌 Featured Projects
 
 - 🧩 **Portfolio Website** – Personal frontend portfolio  
-- 🛒 **E-commerce UI (React)** – Product listing and cart logic  
-- 🎨 **Landing Pages** – Responsive layouts and modern UI  
+- 🛒 **E-commerce UI (React)** – Product listing, routing, and UI logic  
+- 📊 **Business Dashboard (React)** – API integration, dynamic routes, and responsive layout  
 
-👉 Check my repositories for more projects.
+👉 Check my repositories to see full implementations and live demos.
 
 ---
 
@@ -62,8 +62,8 @@ I come from an analytical background, which helps me write structured, maintaina
 ## 📬 Contact
 
 - 💼 LinkedIn: https://www.linkedin.com/in/jorgerenebustos/
-- ✉️ Email: renebustoa2382@gmail.com
+- ✉️ Email: renebustos2382@gmail.com
 
 ---
 
-⭐ Feel free to follow my work or star any repository you find useful.
+⭐ Feel free to explore my repositories or reach out for collaboration opportunities.
