@@ -42,12 +42,13 @@ I also have a strong analytical background, which helps me write structured, mai
 ## 📊 GitHub Stats (Auto-Updated)
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JorgeReneBustos&show_icons=true&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JorgeReneBustos/JorgeReneBustos/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JorgeReneBustos/JorgeReneBustos/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/JorgeReneBustos/JorgeReneBustos/output/github-snake.svg" />
+  </picture>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JorgeReneBustos&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
